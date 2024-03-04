@@ -1,7 +1,7 @@
 import Notes
 import TicTacToe
 import budget
-# change check
+# change check sent back
 
 def exitq():
     decide = input("Continue? ")

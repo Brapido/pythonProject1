@@ -1,6 +1,6 @@
 # ===============================================================
 # Dictionary stores key-value pair (entries/entry)
-# change check
+# change check sent back
 def dictionary():
     user_dictionary = {
         "danp": "Dan Pickles",
