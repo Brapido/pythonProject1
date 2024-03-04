@@ -1,6 +1,8 @@
 import Notes
-import TicTacToe
+import TicTacToe as t
 import budget
+
+
 # change check sent back
 
 def exitq():
@@ -40,7 +42,7 @@ if __name__ == "__main__":
             case 3:
                 Notes.dictionary()
             case 4:
-                TicTacToe.game()
+                t.game()
             case 5:
                 choice = ''
                 # checking to make sure file is there and valid
