@@ -1,5 +1,6 @@
 # ===============================================================
 # Dictionary stores key-value pair (entries/entry)
+# change check
 def dictionary():
     user_dictionary = {
         "danp": "Dan Pickles",
